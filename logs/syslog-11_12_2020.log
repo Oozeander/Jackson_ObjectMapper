@@ -1,0 +1,51 @@
+11/12/2020 - 17:35:06 [main] INFO - com.oozeander.App => {
+  "color" : "Grey",
+  "type" : "Renault"
+}
+11/12/2020 - 17:35:06 [main] INFO - com.oozeander.App => Car(color=Grey, type=Renault)
+11/12/2020 - 17:35:06 [main] INFO - com.oozeander.App => Car(color=Grey, type=Renault)
+11/12/2020 - 17:35:06 [main] INFO - com.oozeander.App => Grey
+11/12/2020 - 17:35:06 [main] INFO - com.oozeander.App => [Car(color=Black, type=BMW), Car(color=Red, type=FIAT)]
+11/12/2020 - 17:38:11 [main] INFO - com.oozeander.App => {
+  "color" : "Grey",
+  "type" : "Renault"
+}
+11/12/2020 - 17:38:11 [main] INFO - com.oozeander.App => Car(color=Grey, type=Renault)
+11/12/2020 - 17:38:11 [main] INFO - com.oozeander.App => Car(color=Grey, type=Renault)
+11/12/2020 - 17:38:11 [main] INFO - com.oozeander.App => Grey
+11/12/2020 - 17:38:11 [main] INFO - com.oozeander.App => [Car(color=Black, type=BMW), Car(color=Red, type=FIAT)]
+11/12/2020 - 17:38:48 [main] INFO - com.oozeander.App => {
+  "color" : "Grey",
+  "type" : "Renault"
+}
+11/12/2020 - 17:38:48 [main] INFO - com.oozeander.App => Car(color=Grey, type=Renault)
+11/12/2020 - 17:38:48 [main] INFO - com.oozeander.App => Car(color=Grey, type=Renault)
+11/12/2020 - 17:38:48 [main] INFO - com.oozeander.App => Grey
+11/12/2020 - 17:38:48 [main] INFO - com.oozeander.App => [Car(color=Black, type=BMW), Car(color=Red, type=FIAT)]
+11/12/2020 - 17:38:48 [main] INFO - com.oozeander.App => {color=Grey, type=Renault}
+11/12/2020 - 17:41:21 [main] INFO - com.oozeander.App => {
+  "color" : "Grey",
+  "type" : "Renault"
+}
+11/12/2020 - 17:43:10 [main] INFO - com.oozeander.App => {
+  "color" : "Grey",
+  "type" : "Renault"
+}
+11/12/2020 - 17:43:35 [main] INFO - com.oozeander.App => {
+  "color" : "Grey",
+  "type" : "Renault"
+}
+11/12/2020 - 17:43:35 [main] INFO - com.oozeander.App => Car(color=Black, type=Fiat)
+11/12/2020 - 17:43:35 [main] INFO - com.oozeander.App => Car(color=Grey, type=Renault)
+11/12/2020 - 17:43:35 [main] INFO - com.oozeander.App => Black
+11/12/2020 - 17:43:35 [main] INFO - com.oozeander.App => [Car(color=Black, type=BMW), Car(color=Red, type=FIAT)]
+11/12/2020 - 17:43:35 [main] INFO - com.oozeander.App => {color=Black, type=Fiat, year=1970}
+11/12/2020 - 17:44:44 [main] INFO - com.oozeander.App => {
+  "color" : "Grey",
+  "type" : "Renault"
+}
+11/12/2020 - 17:44:45 [main] INFO - com.oozeander.App => Car(color=Black, type=Fiat)
+11/12/2020 - 17:44:45 [main] INFO - com.oozeander.App => Car(color=Grey, type=Renault)
+11/12/2020 - 17:44:45 [main] INFO - com.oozeander.App => Black
+11/12/2020 - 17:44:45 [main] INFO - com.oozeander.App => [Car(color=Black, type=BMW), Car(color=Red, type=FIAT)]
+11/12/2020 - 17:44:45 [main] INFO - com.oozeander.App => {color=Black, type=Fiat}

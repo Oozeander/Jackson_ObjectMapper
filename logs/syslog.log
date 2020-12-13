@@ -1,0 +1,13 @@
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => {
+  "color" : "Grey",
+  "type" : "Renault"
+}
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => Car(color=Black, type=Fiat)
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => Car(color=Grey, type=Renault)
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => 5
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => John
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => value
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => [Lcom.oozeander.model.Car;@424fd310
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => [Car(color=Black, type=BMW), Car(color=Red, type=FIAT)]
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => {color=Black, type=Fiat}
+12/12/2020 - 14:19:16 [main] INFO - com.oozeander.App => App.Obj(field=value)
